@@ -7,7 +7,7 @@ const Login = () => {
         console.log(e.target.email.value)
         const email = e.target.email.value
         const password = e.target.password.value
-        console.log(email, password)
+        console.log(email,password)
     }
     return (
         <div>
